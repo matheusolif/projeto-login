@@ -26,6 +26,7 @@ main {
     position: relative;
     height: 100vh;
     width: 100vw;
+    font-size: 0.8em;
 }
 
 
@@ -59,11 +60,15 @@ section#login> div#imagem {
 section#login> div#formulario {
     display: block;
     padding: 10px;
+    
 }
 
 section> div>h1 {
     color:#1c2a2f;
+    text-align: center;
 }
+
+
 
 form {
     margin-top: 5px;
