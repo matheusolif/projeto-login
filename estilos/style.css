@@ -77,7 +77,7 @@ form>div.campo {
     background-color: #1c2a2f;
     border:  2px solid #1c2a2f;
     margin: 6px 0px;
-    padding: 0.5px;    
+    padding: 0.75px;    
     border-radius: 6px;
 }
 
@@ -100,12 +100,12 @@ form label {
 .campo >input {
     background-color: #a5acbd;
     font-size: 1em;
-    width: calc(100% - 44px) ;
+    width: calc(100% - 45px) ;
     height: 100%;
     border: 0px;
     border-radius: 6px;
     padding: 5px;
-    transform: translateY(-11px);
+    transform: translateY(-12px);
 }
 
 input:focus-within {
